@@ -9,7 +9,7 @@ Para usar este projeto, siga estas etapas:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Ducarv/jobs-search.git
    ```
 
 2. **Crie um arquivo `.env`:**
