@@ -1,0 +1,19 @@
+{
+  "name": "search-jobs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^20.8.2",
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1"
+  }
+}
