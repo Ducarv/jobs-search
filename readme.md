@@ -62,4 +62,4 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 ---
 
 Este projeto foi criado como parte do aprendizado em desenvolvimento de software. Sinta-se à vontade para usá-lo como referência ou como base para seus próprios projetos.
-```
+
